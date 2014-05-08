@@ -5,8 +5,8 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import com.yhsoftlab.gdxtest.MyGdxTestGame;
 
 public class DesktopLauncher {
-	public static void main (String[] arg) {
-		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
-		new LwjglApplication(new MyGdxTestGame(), config);
-	}
+    public static void main (String[] arg) {
+        LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
+        new LwjglApplication(new MyGdxTestGame(), config);
+    }
 }

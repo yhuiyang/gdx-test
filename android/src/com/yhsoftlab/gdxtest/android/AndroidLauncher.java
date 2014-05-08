@@ -7,10 +7,10 @@ import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 import com.yhsoftlab.gdxtest.MyGdxTestGame;
 
 public class AndroidLauncher extends AndroidApplication {
-	@Override
-	protected void onCreate (Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
-		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
-		initialize(new MyGdxTestGame(), config);
-	}
+    @Override
+    protected void onCreate (Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
+        initialize(new MyGdxTestGame(), config);
+    }
 }
