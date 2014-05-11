@@ -1,0 +1,417 @@
+
+pack.png
+size: 508,1005
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+badge
+  rotate: false
+  xy: 2, 21
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+bandage
+  rotate: false
+  xy: 112, 92
+  size: 117, 38
+  orig: 117, 38
+  offset: 0, 0
+  index: -1
+bk_news3
+  rotate: false
+  xy: 2, 205
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+car_color_front
+  rotate: false
+  xy: 56, 2
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+car_color_side
+  rotate: false
+  xy: 312, 93
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+car_front
+  rotate: false
+  xy: 224, 39
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+car_light
+  rotate: false
+  xy: 178, 30
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+car_side
+  rotate: false
+  xy: 231, 88
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+car_wheel
+  rotate: false
+  xy: 484, 968
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+car_window
+  rotate: false
+  xy: 354, 72
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 320, 59
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cone
+  rotate: false
+  xy: 178, 38
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 280, 50
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hourglass
+  rotate: false
+  xy: 442, 89
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+knife
+  rotate: false
+  xy: 2, 132
+  size: 370, 71
+  orig: 370, 71
+  offset: 0, 0
+  index: -1
+no1
+  rotate: false
+  xy: 501, 986
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+no2
+  rotate: false
+  xy: 484, 986
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+no3
+  rotate: false
+  xy: 482, 118
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+paused_menu
+  rotate: false
+  xy: 374, 139
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+paused_restart
+  rotate: false
+  xy: 112, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+paused_resume
+  rotate: false
+  xy: 440, 139
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+skip
+  rotate: false
+  xy: 388, 92
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+slot
+  rotate: false
+  xy: 2, 2
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 981,254
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zh_TW/accuracy
+  rotate: false
+  xy: 891, 183
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+zh_TW/adv_btn
+  rotate: false
+  xy: 2, 11
+  size: 368, 76
+  orig: 368, 76
+  offset: 0, 0
+  index: -1
+zh_TW/bonus
+  rotate: false
+  xy: 891, 159
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+zh_TW/completed
+  rotate: false
+  xy: 509, 19
+  size: 136, 22
+  orig: 136, 22
+  offset: 0, 0
+  index: -1
+zh_TW/menuitem_achievement
+  rotate: false
+  xy: 415, 185
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+zh_TW/menuitem_introduction
+  rotate: false
+  xy: 415, 114
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+zh_TW/menuitem_leaderboard
+  rotate: false
+  xy: 653, 185
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+zh_TW/menuitem_play
+  rotate: false
+  xy: 653, 114
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+zh_TW/menuitem_tutorial
+  rotate: false
+  xy: 415, 43
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+zh_TW/new_record
+  rotate: false
+  xy: 647, 2
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+zh_TW/out_of_health
+  rotate: false
+  xy: 653, 68
+  size: 159, 44
+  orig: 159, 44
+  offset: 0, 0
+  index: -1
+zh_TW/remain
+  rotate: false
+  xy: 891, 207
+  size: 90, 22
+  orig: 90, 22
+  offset: 0, 0
+  index: -1
+zh_TW/score
+  rotate: false
+  xy: 891, 231
+  size: 90, 23
+  orig: 90, 23
+  offset: 0, 0
+  index: -1
+zh_TW/strike
+  rotate: false
+  xy: 814, 90
+  size: 136, 22
+  orig: 136, 22
+  offset: 0, 0
+  index: -1
+zh_TW/text_on_knife
+  rotate: false
+  xy: 372, 14
+  size: 135, 27
+  orig: 135, 27
+  offset: 0, 0
+  index: -1
+zh_TW/time_up
+  rotate: false
+  xy: 653, 25
+  size: 162, 41
+  orig: 162, 41
+  offset: 0, 0
+  index: -1
+zh_TW/title
+  rotate: false
+  xy: 2, 89
+  size: 411, 165
+  orig: 411, 165
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 1011,249
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+en_US/accuracy
+  rotate: false
+  xy: 326, 38
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+en_US/adv_btn
+  rotate: false
+  xy: 405, 173
+  size: 368, 76
+  orig: 368, 76
+  offset: 0, 0
+  index: -1
+en_US/bonus
+  rotate: false
+  xy: 643, 131
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+en_US/completed
+  rotate: false
+  xy: 643, 150
+  size: 87, 21
+  orig: 87, 21
+  offset: 0, 0
+  index: -1
+en_US/menuitem_achievement
+  rotate: false
+  xy: 405, 102
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+en_US/menuitem_introduction
+  rotate: false
+  xy: 775, 180
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+en_US/menuitem_leaderboard
+  rotate: false
+  xy: 405, 31
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+en_US/menuitem_play
+  rotate: false
+  xy: 775, 109
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+en_US/menuitem_tutorial
+  rotate: false
+  xy: 643, 38
+  size: 236, 69
+  orig: 236, 69
+  offset: 0, 0
+  index: -1
+en_US/new_record
+  rotate: false
+  xy: 881, 61
+  size: 78, 11
+  orig: 78, 11
+  offset: 0, 0
+  index: -1
+en_US/out_of_health
+  rotate: false
+  xy: 165, 23
+  size: 159, 36
+  orig: 159, 36
+  offset: 0, 0
+  index: -1
+en_US/remain
+  rotate: false
+  xy: 2, 2
+  size: 146, 17
+  orig: 146, 17
+  offset: 0, 0
+  index: -1
+en_US/score
+  rotate: false
+  xy: 643, 112
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+en_US/strike
+  rotate: false
+  xy: 881, 41
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+en_US/text_on_knife
+  rotate: false
+  xy: 881, 74
+  size: 121, 33
+  orig: 121, 33
+  offset: 0, 0
+  index: -1
+en_US/time_up
+  rotate: false
+  xy: 2, 21
+  size: 161, 38
+  orig: 161, 38
+  offset: 0, 0
+  index: -1
+en_US/title
+  rotate: false
+  xy: 2, 61
+  size: 401, 188
+  orig: 401, 188
+  offset: 0, 0
+  index: -1
